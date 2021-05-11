@@ -1,6 +1,6 @@
 # Algorithm-Leaf
 
-基于算法，进行 Common Lisp 的实现，也存档其它语言的实现，同时逐步把这些存档转换成 Common Lisp 的实现。
+用 Common Lisp 描述算法，也存档其它语言的实现，这些存档将会用 Common Lisp 重写。
 
 ## Contribution
 
